@@ -1,114 +1,85 @@
 # Global Superstore Sales Analysis
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Data Cleaning](#data-cleaning)
-- [Company Overview](#company-overview)
-- [Customer Analysis](#customer-analysis)
-- [Research Questions](#research-questions)
-- [Returns Analysis](#returns-analysis)
-- [Discount Analysis](#discount-analysis)
-- [Customer Retention](#customer-retention)
-- [Conclusion](#conclusion)
-- [Appendix](#appendix)
-
 ## Overview
 
-This project comprehensively analyzes Global Superstore sales data using Power BI. The dashboard visualizes key business metrics and insights to support data-driven decision making for a global retail business.
+This project demonstrates my expertise in data management, dashboard creation, and business analytics using Global Superstore dataset. The analysis showcases my ability to transform raw retail data into actionable insights, supporting product management and sales optimization decisions - skills directly applicable to master data management and product development support roles.
 
-## Data Cleaning
-* Solution 1
-* Solution 2
+## Relevant Skills for F&B Product Data Analyst
 
-### EDA Process
+- **Data Management**: Meticulously cleaned and standardized product information across multiple categories, ensuring data accuracy and consistency
+- **Dashboard Development**: Created comprehensive Power BI dashboards tracking sales performance, customer behavior, and product metrics
+- **Excel & Power BI Proficiency**: Leveraged advanced Excel functions and Power BI visualizations to analyze complex datasets
+- **Product Performance Analysis**: Identified key factors affecting product returns and sales performance across different categories
+- **Analytical Problem-Solving**: Applied statistical analysis to resolve profit inconsistencies and improve product retention strategies
+- **Business Insights Generation**: Transformed data findings into actionable business recommendations to reduce returns and improve customer retention
+- **Collaborative Communication**: Structured analysis and visualizations to effectively communicate findings to diverse stakeholders
 
-![EDA Process](./image/eda_process.png)
+## Project Components
 
-## Company Overview
+### 1. Interactive Power BI Dashboard
 
-### Global Superstore's Performance
+The dashboard presents critical business metrics relevant to product management:
 
-![Company Performance](./image/company_performance.png)
+- Product performance by category and region
+- Profit analysis and margin calculation by product line
+- Customer segmentation and purchase behavior analysis
+- Geographic sales distribution with market penetration insights
+- Return rate analysis by product category
 
-## Customer Analysis
+![Dashboard Overview](./image/company_performance.png)
 
-### Who are our customers?
+### 2. Data Management & Cleaning Process
 
-![Customer Demographics](./image/customer_demographics.png)
+The data preparation workflow demonstrates my attention to detail:
 
-### Where do our customers come from?
+- Identified and resolved missing values in product information
+- Standardized product naming conventions and categorizations
+- Created calculated fields for profitability and performance metrics
+- Implemented data validation protocols to ensure accuracy
 
-![Customer Geography](./image/customer_geography.png)
+![Data Process](./image/eda_process.png)
 
-## Research Questions
+### 3. Product Insights & Recommendations
 
-### Data Analysis Context
+Key findings relevant to product management:
 
-#### Problem statement
+- Late delivery and high shipping costs significantly impact product return rates (34% of returns)
+- Product pricing elasticity analysis revealed opportunities to optimize discount strategies
+- Customer retention analysis identified key factors affecting repeat purchases
 
-Global Superstore has been increasing returns, observed sales-profit inconsistency between Mondays and Sundays and also high number of customers showing a sign of leaving (34%) over the past 4 years.
+![Return Analysis](./image/return_reasons.png)
 
-#### Research questions
+## Business Impact Analysis
 
-1. Which factors affect customers' decisions to return orders?
-2. Why is there a profit-sales inconsistency between Mondays and Sundays?
-3. What causes customers to disengage and stop buying?
+| Business Challenge                          | Data-Driven Solution                                      | Expected Outcome                                        |
+| ------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------- |
+| High product return rates                   | Optimize shipping options and delivery timelines          | Reduced returns and improved customer satisfaction      |
+| Inconsistent profit margins across weekdays | Strategic discount adjustments based on price elasticity  | Stabilized profit margins with maintained sales volumes |
+| Customer disengagement                      | Shipping cost optimization for critical customer segments | Improved customer retention and lifetime value          |
 
-## Returns Analysis
+![Customer Analysis](./image/customer_demographics.png)
 
-### Why did our customers return orders?
+## Tools & Technologies Used
 
-![Return Reasons](./image/return_reasons.png)
+- **Microsoft Power BI**: Dashboard creation and KPI visualization
+- **Microsoft Excel**: Advanced data cleaning with Power Pivot functionality
+- **DAX (Data Analysis Expressions)**: Custom calculations for product performance metrics
 
-### What factors impact return rates?
+## How This Project Demonstrates Value for F&B Data Analysis
 
-![Return Factors](./image/return_factors.png)
+This analysis showcases my ability to:
 
-### When do our customers make orders?
+1. Maintain accurate product data across complex inventory systems
+2. Support product development through data-driven insights
+3. Create intuitive dashboards that track critical business metrics
+4. Apply analytical thinking to solve real business challenges
+5. Communicate findings effectively to inform business decisions
 
-![Order Timing](./image/order_timing.png)
+## Contact Information
 
-## Discount Analysis
+* 🌐 [linkedin.com/in/ngọc-châu-ibu](linkedin.com/in/ngọc-châu-ibu)
+* ✉️ [luungocchauqn@gmail.com](mailto:luungocchauqn@gmail.com)
 
-### Sales vs Profit on Weekdays
+---
 
-![Sales vs Profit](./image/sales_vs_profit.png)
-
-### Do discounts affect the quantity sold?
-
-![Discount Impact](./image/discount_impact.png)
-
-## Customer Retention
-
-### Who are our loyal customers?
-
-![Loyal Customers](./image/loyal_customers.png)
-
-### What causes customers to disengage and stop buying?
-
-#### Problem Statement
-
-Global Super Store has been experiencing many customers showing signs of leaving (34%) over the past 4 years.
-
-| Current situation                                         | Recommendation                                                                |
-| --------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| **Leaving group:** High shipping cost, High discount rate | Reduce shipping costs and discount rate to drive customers' purchase behavior |
-
-## Conclusion
-
-| Research questions                                                     | Research answers                                                                                                                                       |
-| ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Which factors affect customers' decisions to return orders?            | Late delivery and high shipping costs affect customers' return decisions → Reduce shipping costs and ensure timely delivery on customer shipping mode. |
-| Why is there a profit-sales inconsistency between Mondays and Sundays? | With all products across all segments being price inelastic, discounts are the main cause for this inconsistency.                                      |
-| What causes customers to disengage and stop buying?                    | High shipping cost affect the customers' purchase behaviors while discount rate have no impact → Decrease the discount rate and shipping cost.         |
-
-## Appendix
-
-### Return Rate
-
-![Return Rate Analysis](./image/return_rate.png)
-
-### Customer Retention
-
-![Customer Retention Analysis](./image/customer_retention.png)
+_Note: This project demonstrates my capabilities in business analytics, dashboard creation, and master data management - skills directly applicable to an F&B Product Data Analyst role._
