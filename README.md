@@ -1,100 +1,114 @@
-# Global Super Store - Power BI
+# Global Superstore Sales Analysis
 
-# Table of Contents
+## Table of Contents
 
-# Data Cleaning
+- [Overview](#overview)
+- [Data Cleaning](#data-cleaning)
+- [Company Overview](#company-overview)
+- [Customer Analysis](#customer-analysis)
+- [Research Questions](#research-questions)
+- [Returns Analysis](#returns-analysis)
+- [Discount Analysis](#discount-analysis)
+- [Customer Retention](#customer-retention)
+- [Conclusion](#conclusion)
+- [Appendix](#appendix)
 
-## Solution
+## Overview
 
-- Solution 1
-- Solution 2
+This project comprehensively analyzes Global Superstore sales data using Power BI. The dashboard visualizes key business metrics and insights to support data-driven decision making for a global retail business.
 
-## EDA Process
+## Data Cleaning
+* Solution 1
+* Solution 2
 
-![image.png](image.png)
+### EDA Process
 
-# Company Overview
+![EDA Process](./image/eda_process.png)
 
-## Global Superstore’s Performance
+## Company Overview
 
-![image.png](image%201.png)
+### Global Superstore's Performance
 
-## Who are our customers?
+![Company Performance](./image/company_performance.png)
 
-![image.png](image%202.png)
+## Customer Analysis
 
-## Where do our customers come from?
+### Who are our customers?
 
-![image.png](image%203.png)
+![Customer Demographics](./image/customer_demographics.png)
 
-# Research Questions
+### Where do our customers come from?
 
-## Data Analysis Contex
+![Customer Geography](./image/customer_geography.png)
 
-### Problem statement
+## Research Questions
 
-Global Superstore has been increasing returns, observed sales-profit inconsistency between Mondays and Sundays and also high number of customers showing a sign of leaving (**34%**) over the past **4 years**.
+### Data Analysis Context
 
-### Research questions
+#### Problem statement
+
+Global Superstore has been increasing returns, observed sales-profit inconsistency between Mondays and Sundays and also high number of customers showing a sign of leaving (34%) over the past 4 years.
+
+#### Research questions
 
 1. Which factors affect customers' decisions to return orders?
 2. Why is there a profit-sales inconsistency between Mondays and Sundays?
 3. What causes customers to disengage and stop buying?
 
-# Returns
+## Returns Analysis
 
-## Why did our customers return orders?
+### Why did our customers return orders?
 
-![image.png](image%204.png)
+![Return Reasons](./image/return_reasons.png)
 
-## What factors impact return rates?
+### What factors impact return rates?
 
-![image.png](image%205.png)
+![Return Factors](./image/return_factors.png)
 
-## When do our customermake orders?
+### When do our customers make orders?
 
-![image.png](image%206.png)
+![Order Timing](./image/order_timing.png)
 
-# Discount
+## Discount Analysis
 
-## Sales vs Profit on Weekdays
+### Sales vs Profit on Weekdays
 
-![image.png](image%207.png)
+![Sales vs Profit](./image/sales_vs_profit.png)
 
-## Do discounts affect the quantity sold?
+### Do discounts affect the quantity sold?
 
-![image.png](image%208.png)
+![Discount Impact](./image/discount_impact.png)
 
-# Customer Retention
+## Customer Retention
 
-## Who are our loyal customers?
+### Who are our loyal customers?
 
-![image.png](image%209.png)
+![Loyal Customers](./image/loyal_customers.png)
 
-## What causes customers to disengage and stop buying?
+### What causes customers to disengage and stop buying?
 
-### Problem Statement
+#### Problem Statement
 
-Global Super Store has been experiencing the high number of customers showing a sign of leaving (**34%**) **over the** **pass** **4 years**.
+Global Super Store has been experiencing many customers showing signs of leaving (34%) over the past 4 years.
 
-| **Current situation** | **Recommendation** |
-| --- | --- |
-| Leaving group:
-- High shipping cost
-- High discount rate | Reduce shipping costs and discount rate to drive customer customers’ purchase behavior |
+| Current situation                                         | Recommendation                                                                |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| **Leaving group:** High shipping cost, High discount rate | Reduce shipping costs and discount rate to drive customers' purchase behavior |
 
-# Conclusion
+## Conclusion
 
-| **Research questions** | **Research answers** |
-| --- | --- |
-| Which factors affect customers’ decisions to return orders? | Late delivery and high shipping costs affects customers’ return decision → Reduce shipping costs and ensure timely delivery on customer shipping mode. |
-| Why is there a profit-sales inconsistency between Mondays and Sundays? | With all products across all segments being price inelastic, discounts are the main cause for this inconsistency. |
-| What causes customers to disengage and stop buying? | High shipping cost affect the customers’ purchase behaviors while discount rate have no impact → Decrease the discount rate and shipping cost. |
+| Research questions                                                     | Research answers                                                                                                                                       |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Which factors affect customers' decisions to return orders?            | Late delivery and high shipping costs affect customers' return decisions → Reduce shipping costs and ensure timely delivery on customer shipping mode. |
+| Why is there a profit-sales inconsistency between Mondays and Sundays? | With all products across all segments being price inelastic, discounts are the main cause for this inconsistency.                                      |
+| What causes customers to disengage and stop buying?                    | High shipping cost affect the customers' purchase behaviors while discount rate have no impact → Decrease the discount rate and shipping cost.         |
 
-## Appendix - Return rate
+## Appendix
 
-![image.png](image%2010.png)
+### Return Rate
 
-## Appendix - Customer retention
+![Return Rate Analysis](./image/return_rate.png)
 
-![image.png](image%2011.png)
+### Customer Retention
+
+![Customer Retention Analysis](./image/customer_retention.png)
